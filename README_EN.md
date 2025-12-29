@@ -26,7 +26,7 @@ If you liked any script and want to test it in your local environment or server:
 2.  **Fork:** Feel free to **Fork** this project to suggest improvements or customize it for your own use.
 3.  **Clone:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/REPO_NAME.git](https://github.com/YOUR_USERNAME/REPO_NAME.git)
+    git clone [https://github.com/RafaeL-Malaquias/FiveM-Scripts](https://github.com/RafaeL-Malaquias/FiveM-Scripts)
     ```
 
 ---
@@ -50,7 +50,7 @@ Feel free to open an **Issue** or submit a **Pull Request**. Feedback is always 
 
 <div align="center">
   <p>Developed with ❤️ by <b>Your Name/Nick</b></p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/RafaeL-Malaquias">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>

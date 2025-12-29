@@ -26,7 +26,7 @@ Se você gostou de algum script e quer testar no seu ambiente local ou servidor:
 2.  **Fork:** Sinta-se à vontade para fazer um **Fork** deste projeto para sugerir melhorias ou personalizar para o seu uso.
 3.  **Clone:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPO.git](https://github.com/SEU_USUARIO/NOME_DO_REPO.git)
+    git clone [https://github.com/RafaeL-Malaquias/FiveM-Scripts](https://github.com/RafaeL-Malaquias/FiveM-Scripts)
     ```
 
 ---
@@ -50,7 +50,7 @@ Sinta-se à vontade para abrir uma **Issue** ou enviar um **Pull Request**. Feed
 
 <div align="center">
   <p>Desenvolvido por <b>FaeL Dev</b></p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/RafaeL-Malaquias">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
