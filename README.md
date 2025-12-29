@@ -26,7 +26,7 @@ Se você gostou de algum script e quer testar no seu ambiente local ou servidor:
 2.  **Fork:** Sinta-se à vontade para fazer um **Fork** deste projeto para sugerir melhorias ou personalizar para o seu uso.
 3.  **Clone:**
     ```bash
-    git clone [https://github.com/RafaeL-Malaquias/FiveM-Scripts](https://github.com/RafaeL-Malaquias/FiveM-Scripts)
+    git clone https://github.com/RafaeL-Malaquias/FiveM-Scripts
     ```
 
 ---
