@@ -49,7 +49,7 @@ Feel free to open an **Issue** or submit a **Pull Request**. Feedback is always 
 ---
 
 <div align="center">
-  <p>Developed with ❤️ by <b>Your Name/Nick</b></p>
+  <p>Developed by <b>FaeL Dev</b></p>
   <a href="https://github.com/RafaeL-Malaquias">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
