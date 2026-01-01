@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="container" style="display: none;">
+        <div class="menu-header">
+            <h3>ADMIN MENU</h3>
+        </div>
+        
+    <div id="main-menu" class="menu-list" >
+        <button class="menu-button" onclick="openSubMenu('admin')"> 
+        👑| Admin<i class="arrow">→</i>
+        </button>
+         <button class="menu-button" onclick="openSubMenu('player')">🙍‍♂️ | 
+            Players <i class="arrow">→</i></button>
+         <button class="menu-button" onclick="openSubMenu('server')">🌐 | 
+            Server management <i class="arrow">→</i></button>
+        <button class="menu-button" onclick="openSubMenu('vehicle')">
+            🚗 | Vehicles <i class="arrow">→</i></button>
+        <button class="menu-button" onclick="openSubMenu('dev')">🛠️ | 
+            Dev Tools <i class="arrow">→</i></button>
+    </div>
+
+        <div id="footer">
+            <p>ESC to close</p>
+        </div>
+    </div>
+
+    <script src="vehicles.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
