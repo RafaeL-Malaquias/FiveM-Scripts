@@ -2,6 +2,17 @@
 
 Este é um script de administração completo e moderno para servidores FiveM baseados em ESX Legacy. Ele possui uma interface NUI limpa e intuitiva, inspirada no estilo QB-Core, oferecendo diversas ferramentas para gerenciamento de jogadores, veículos e servidor.
 
+
+<div align="center">
+    <h1>🛡️Admin Panel</h1>
+
+<img src="prints/0.png">   
+
+</div>
+
+[ <a  href="prints/">Prints</a>]
+
+
 ## ✨ Funcionalidades
 
 ### 👑 Admin Geral
